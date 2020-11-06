@@ -9,7 +9,7 @@ export default class App extends React.Component {
   state={
     fname:"",
     sname:"",
-    result:"loading"
+    result:"loading..."
 
   };
 
